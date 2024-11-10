@@ -1,0 +1,20 @@
+{
+  "name": "softwarebackend",
+  "version": "1.0.0",
+  "description": "Basic app to learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "software"
+  ],
+  "author": "Vishal Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
